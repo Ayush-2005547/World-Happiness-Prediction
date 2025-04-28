@@ -4,7 +4,7 @@ This project analyzes the World Happiness Report 2024 dataset to explore and pre
 
 ## Dataset
 
-- **Source:** World Happiness Report 2024(url:https://worldhappiness.report/data-sharing/)
+- **Source:** World Happiness Report 2024(:https://worldhappiness.report/data-sharing/)
 - **Key Columns Used:**
   - Log GDP per capita
   - Social support
